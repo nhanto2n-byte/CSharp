@@ -1,0 +1,30 @@
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\OOP\bin\Debug\net8.0\Lab02_ThucHanh.exe
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\OOP\bin\Debug\net8.0\Lab02_ThucHanh.deps.json
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\OOP\bin\Debug\net8.0\Lab02_ThucHanh.runtimeconfig.json
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\OOP\bin\Debug\net8.0\Lab02_ThucHanh.dll
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\OOP\bin\Debug\net8.0\Lab02_ThucHanh.pdb
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\OOP\obj\Debug\net8.0\Lab02_ThucHanh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\OOP\obj\Debug\net8.0\Lab02_ThucHanh.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\OOP\obj\Debug\net8.0\Lab02_ThucHanh.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\OOP\obj\Debug\net8.0\Lab02_ThucHanh.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\OOP\obj\Debug\net8.0\Lab02_ThucHanh.sourcelink.json
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\OOP\obj\Debug\net8.0\Lab02_ThucHanh.dll
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\OOP\obj\Debug\net8.0\refint\Lab02_ThucHanh.dll
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\OOP\obj\Debug\net8.0\Lab02_ThucHanh.pdb
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\OOP\obj\Debug\net8.0\Lab02_ThucHanh.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\OOP\obj\Debug\net8.0\ref\Lab02_ThucHanh.dll
+c:\Users\ASUS TUF\Documents\GitHub\Nhapmon_C-\OOP\bin\Debug\net8.0\Lab02_ThucHanh.exe
+c:\Users\ASUS TUF\Documents\GitHub\Nhapmon_C-\OOP\bin\Debug\net8.0\Lab02_ThucHanh.deps.json
+c:\Users\ASUS TUF\Documents\GitHub\Nhapmon_C-\OOP\bin\Debug\net8.0\Lab02_ThucHanh.runtimeconfig.json
+c:\Users\ASUS TUF\Documents\GitHub\Nhapmon_C-\OOP\bin\Debug\net8.0\Lab02_ThucHanh.dll
+c:\Users\ASUS TUF\Documents\GitHub\Nhapmon_C-\OOP\bin\Debug\net8.0\Lab02_ThucHanh.pdb
+c:\Users\ASUS TUF\Documents\GitHub\Nhapmon_C-\OOP\obj\Debug\net8.0\Lab02_ThucHanh.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ASUS TUF\Documents\GitHub\Nhapmon_C-\OOP\obj\Debug\net8.0\Lab02_ThucHanh.AssemblyInfoInputs.cache
+c:\Users\ASUS TUF\Documents\GitHub\Nhapmon_C-\OOP\obj\Debug\net8.0\Lab02_ThucHanh.AssemblyInfo.cs
+c:\Users\ASUS TUF\Documents\GitHub\Nhapmon_C-\OOP\obj\Debug\net8.0\Lab02_ThucHanh.csproj.CoreCompileInputs.cache
+c:\Users\ASUS TUF\Documents\GitHub\Nhapmon_C-\OOP\obj\Debug\net8.0\Lab02_ThucHanh.sourcelink.json
+c:\Users\ASUS TUF\Documents\GitHub\Nhapmon_C-\OOP\obj\Debug\net8.0\Lab02_ThucHanh.dll
+c:\Users\ASUS TUF\Documents\GitHub\Nhapmon_C-\OOP\obj\Debug\net8.0\refint\Lab02_ThucHanh.dll
+c:\Users\ASUS TUF\Documents\GitHub\Nhapmon_C-\OOP\obj\Debug\net8.0\Lab02_ThucHanh.pdb
+c:\Users\ASUS TUF\Documents\GitHub\Nhapmon_C-\OOP\obj\Debug\net8.0\Lab02_ThucHanh.genruntimeconfig.cache
+c:\Users\ASUS TUF\Documents\GitHub\Nhapmon_C-\OOP\obj\Debug\net8.0\ref\Lab02_ThucHanh.dll
