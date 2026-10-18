@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\GitHub\myC-\Lab05_WinFormAdv_HuynhNhatQuang_3124411245\Lab05_WinFormAdv\bin\Debug\net8.0-windows\Lab05_WinFormAdv.exe
+C:\Users\Admin\Documents\GitHub\myC-\Lab05_WinFormAdv_HuynhNhatQuang_3124411245\Lab05_WinFormAdv\bin\Debug\net8.0-windows\Lab05_WinFormAdv.deps.json
+C:\Users\Admin\Documents\GitHub\myC-\Lab05_WinFormAdv_HuynhNhatQuang_3124411245\Lab05_WinFormAdv\bin\Debug\net8.0-windows\Lab05_WinFormAdv.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\myC-\Lab05_WinFormAdv_HuynhNhatQuang_3124411245\Lab05_WinFormAdv\bin\Debug\net8.0-windows\Lab05_WinFormAdv.dll
+C:\Users\Admin\Documents\GitHub\myC-\Lab05_WinFormAdv_HuynhNhatQuang_3124411245\Lab05_WinFormAdv\bin\Debug\net8.0-windows\Lab05_WinFormAdv.pdb
+C:\Users\Admin\Documents\GitHub\myC-\Lab05_WinFormAdv_HuynhNhatQuang_3124411245\Lab05_WinFormAdv\obj\Debug\net8.0-windows\Lab05_WinFormAdv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\myC-\Lab05_WinFormAdv_HuynhNhatQuang_3124411245\Lab05_WinFormAdv\obj\Debug\net8.0-windows\Lab05_WinFormAdv.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\myC-\Lab05_WinFormAdv_HuynhNhatQuang_3124411245\Lab05_WinFormAdv\obj\Debug\net8.0-windows\Lab05_WinFormAdv.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\myC-\Lab05_WinFormAdv_HuynhNhatQuang_3124411245\Lab05_WinFormAdv\obj\Debug\net8.0-windows\Lab05_WinFormAdv.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\myC-\Lab05_WinFormAdv_HuynhNhatQuang_3124411245\Lab05_WinFormAdv\obj\Debug\net8.0-windows\Lab05_WinFormAdv.sourcelink.json
+C:\Users\Admin\Documents\GitHub\myC-\Lab05_WinFormAdv_HuynhNhatQuang_3124411245\Lab05_WinFormAdv\obj\Debug\net8.0-windows\Lab05_WinFormAdv.dll
+C:\Users\Admin\Documents\GitHub\myC-\Lab05_WinFormAdv_HuynhNhatQuang_3124411245\Lab05_WinFormAdv\obj\Debug\net8.0-windows\refint\Lab05_WinFormAdv.dll
+C:\Users\Admin\Documents\GitHub\myC-\Lab05_WinFormAdv_HuynhNhatQuang_3124411245\Lab05_WinFormAdv\obj\Debug\net8.0-windows\Lab05_WinFormAdv.pdb
+C:\Users\Admin\Documents\GitHub\myC-\Lab05_WinFormAdv_HuynhNhatQuang_3124411245\Lab05_WinFormAdv\obj\Debug\net8.0-windows\Lab05_WinFormAdv.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\myC-\Lab05_WinFormAdv_HuynhNhatQuang_3124411245\Lab05_WinFormAdv\obj\Debug\net8.0-windows\ref\Lab05_WinFormAdv.dll
