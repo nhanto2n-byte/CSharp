@@ -1,0 +1,13 @@
+﻿LAB 06 - QLSINHVIEN
+Sinh viên: Tô Thành Nhân
+MSSV: 3124411198
+
+1. Giải nén ZIP.
+2. Đọc README.md.
+3. Chạy Database/QLSinhVien.sql trên SQL Server thử nghiệm (script tạo lại bảng, hãy sao lưu trước).
+4. Chỉnh Data Source trong App.config.
+5. Mở Lab06_CSDL_Basic.sln bằng Visual Studio, build và chạy.
+6. Báo cáo Word nằm ở thư mục gốc.
+
+PHẦN BỔ SUNG: có LopForm, ListLopForm, ListDiemForm, CuaHangForm và Database/QLCuaHang.sql.
+Chạy QLCuaHang.sql riêng trong SSMS. Build/chạy thực tế chưa được xác nhận; xem mục 10 báo cáo để biết hạng mục nào còn cần kiểm thử.
