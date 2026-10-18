@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qi1Hva+o6p8=",
+  "dgSpecHash": "WNn3estOK9w=",
   "success": true,
-  "projectFilePath": "D:\\OOP\\Lab02_ThucHanh.csproj",
+  "projectFilePath": "C:\\Users\\ToThanhNhan\\OneDrive\\Documents\\CSharp\\Lab02\\Lab02_ThucHanh.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ToThanhNhan\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.31\\microsoft.netcore.app.ref.8.0.31.nupkg.sha512",
     "C:\\Users\\ToThanhNhan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.31\\microsoft.windowsdesktop.app.ref.8.0.31.nupkg.sha512",

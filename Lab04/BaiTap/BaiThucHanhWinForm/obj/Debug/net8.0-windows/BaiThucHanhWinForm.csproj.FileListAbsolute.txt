@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\GitHub\MayHoc\Lab04\BaiTap\BaiThucHanhWinForm\bin\Debug\net8.0-windows\BaiThucHanhWinForm.exe
+C:\Users\Admin\Documents\GitHub\MayHoc\Lab04\BaiTap\BaiThucHanhWinForm\bin\Debug\net8.0-windows\BaiThucHanhWinForm.deps.json
+C:\Users\Admin\Documents\GitHub\MayHoc\Lab04\BaiTap\BaiThucHanhWinForm\bin\Debug\net8.0-windows\BaiThucHanhWinForm.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\MayHoc\Lab04\BaiTap\BaiThucHanhWinForm\bin\Debug\net8.0-windows\BaiThucHanhWinForm.dll
+C:\Users\Admin\Documents\GitHub\MayHoc\Lab04\BaiTap\BaiThucHanhWinForm\bin\Debug\net8.0-windows\BaiThucHanhWinForm.pdb
+C:\Users\Admin\Documents\GitHub\MayHoc\Lab04\BaiTap\BaiThucHanhWinForm\obj\Debug\net8.0-windows\BaiThucHanhWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\MayHoc\Lab04\BaiTap\BaiThucHanhWinForm\obj\Debug\net8.0-windows\BaiThucHanhWinForm.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\MayHoc\Lab04\BaiTap\BaiThucHanhWinForm\obj\Debug\net8.0-windows\BaiThucHanhWinForm.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\MayHoc\Lab04\BaiTap\BaiThucHanhWinForm\obj\Debug\net8.0-windows\BaiThucHanhWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\MayHoc\Lab04\BaiTap\BaiThucHanhWinForm\obj\Debug\net8.0-windows\BaiThucHanhWinForm.sourcelink.json
+C:\Users\Admin\Documents\GitHub\MayHoc\Lab04\BaiTap\BaiThucHanhWinForm\obj\Debug\net8.0-windows\BaiThucHanhWinForm.dll
+C:\Users\Admin\Documents\GitHub\MayHoc\Lab04\BaiTap\BaiThucHanhWinForm\obj\Debug\net8.0-windows\refint\BaiThucHanhWinForm.dll
+C:\Users\Admin\Documents\GitHub\MayHoc\Lab04\BaiTap\BaiThucHanhWinForm\obj\Debug\net8.0-windows\BaiThucHanhWinForm.pdb
+C:\Users\Admin\Documents\GitHub\MayHoc\Lab04\BaiTap\BaiThucHanhWinForm\obj\Debug\net8.0-windows\BaiThucHanhWinForm.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\MayHoc\Lab04\BaiTap\BaiThucHanhWinForm\obj\Debug\net8.0-windows\ref\BaiThucHanhWinForm.dll

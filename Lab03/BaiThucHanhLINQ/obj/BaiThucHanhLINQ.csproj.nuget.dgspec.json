@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Lab03_ToThanhNhan_3124411198\\BaiThucHanhLINQ\\BaiThucHanhLINQ.csproj": {}
+    "C:\\Users\\ToThanhNhan\\OneDrive\\Documents\\CSharp\\Lab03\\BaiThucHanhLINQ\\BaiThucHanhLINQ.csproj": {}
   },
   "projects": {
-    "D:\\Lab03_ToThanhNhan_3124411198\\BaiThucHanhLINQ\\BaiThucHanhLINQ.csproj": {
+    "C:\\Users\\ToThanhNhan\\OneDrive\\Documents\\CSharp\\Lab03\\BaiThucHanhLINQ\\BaiThucHanhLINQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Lab03_ToThanhNhan_3124411198\\BaiThucHanhLINQ\\BaiThucHanhLINQ.csproj",
+        "projectUniqueName": "C:\\Users\\ToThanhNhan\\OneDrive\\Documents\\CSharp\\Lab03\\BaiThucHanhLINQ\\BaiThucHanhLINQ.csproj",
         "projectName": "BaiThucHanhLINQ",
-        "projectPath": "D:\\Lab03_ToThanhNhan_3124411198\\BaiThucHanhLINQ\\BaiThucHanhLINQ.csproj",
+        "projectPath": "C:\\Users\\ToThanhNhan\\OneDrive\\Documents\\CSharp\\Lab03\\BaiThucHanhLINQ\\BaiThucHanhLINQ.csproj",
         "packagesPath": "C:\\Users\\ToThanhNhan\\.nuget\\packages\\",
-        "outputPath": "D:\\Lab03_ToThanhNhan_3124411198\\BaiThucHanhLINQ\\obj\\",
+        "outputPath": "C:\\Users\\ToThanhNhan\\OneDrive\\Documents\\CSharp\\Lab03\\BaiThucHanhLINQ\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ToThanhNhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+          "C:\\Users\\ToThanhNhan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OOP\\Lab02_ThucHanh.csproj": {}
+    "C:\\Users\\ToThanhNhan\\OneDrive\\Documents\\CSharp\\Lab02\\Lab02_ThucHanh.csproj": {}
   },
   "projects": {
-    "D:\\OOP\\Lab02_ThucHanh.csproj": {
+    "C:\\Users\\ToThanhNhan\\OneDrive\\Documents\\CSharp\\Lab02\\Lab02_ThucHanh.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OOP\\Lab02_ThucHanh.csproj",
+        "projectUniqueName": "C:\\Users\\ToThanhNhan\\OneDrive\\Documents\\CSharp\\Lab02\\Lab02_ThucHanh.csproj",
         "projectName": "Lab02_ThucHanh",
-        "projectPath": "D:\\OOP\\Lab02_ThucHanh.csproj",
+        "projectPath": "C:\\Users\\ToThanhNhan\\OneDrive\\Documents\\CSharp\\Lab02\\Lab02_ThucHanh.csproj",
         "packagesPath": "C:\\Users\\ToThanhNhan\\.nuget\\packages\\",
-        "outputPath": "D:\\OOP\\obj\\",
+        "outputPath": "C:\\Users\\ToThanhNhan\\OneDrive\\Documents\\CSharp\\Lab02\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ToThanhNhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+          "C:\\Users\\ToThanhNhan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
