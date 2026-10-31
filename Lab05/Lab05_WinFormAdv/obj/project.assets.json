@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\ToThanhNhan\\OneDrive\\Documents\\CSharp\\Lab05_WinFormAdv_ToThanhNhan_3124411198\\Lab05_WinFormAdv\\Lab05_WinFormAdv.csproj",
+      "projectUniqueName": "C:\\Users\\ToThanhNhan\\OneDrive\\Documents\\CSharp\\Lab05\\Lab05_WinFormAdv\\Lab05_WinFormAdv.csproj",
       "projectName": "Lab05_WinFormAdv",
-      "projectPath": "c:\\Users\\ToThanhNhan\\OneDrive\\Documents\\CSharp\\Lab05_WinFormAdv_ToThanhNhan_3124411198\\Lab05_WinFormAdv\\Lab05_WinFormAdv.csproj",
+      "projectPath": "C:\\Users\\ToThanhNhan\\OneDrive\\Documents\\CSharp\\Lab05\\Lab05_WinFormAdv\\Lab05_WinFormAdv.csproj",
       "packagesPath": "C:\\Users\\ToThanhNhan\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\ToThanhNhan\\OneDrive\\Documents\\CSharp\\Lab05_WinFormAdv_ToThanhNhan_3124411198\\Lab05_WinFormAdv\\obj\\",
+      "outputPath": "C:\\Users\\ToThanhNhan\\OneDrive\\Documents\\CSharp\\Lab05\\Lab05_WinFormAdv\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ToThanhNhan\\AppData\\Roaming\\NuGet\\NuGet.Config"

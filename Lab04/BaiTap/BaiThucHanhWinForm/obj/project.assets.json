@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ToThanhNhan\\Downloads\\Lab04_WinFormBasic_HuynhNhatQuang_3124411245\\Lab04_WinFormBasic_HuynhNhatQuang_3124411245\\BaiTap\\BaiThucHanhWinForm\\BaiThucHanhWinForm.csproj",
+      "projectUniqueName": "C:\\Users\\ToThanhNhan\\OneDrive\\Documents\\CSharp\\Lab04\\BaiTap\\BaiThucHanhWinForm\\BaiThucHanhWinForm.csproj",
       "projectName": "BaiThucHanhWinForm",
-      "projectPath": "C:\\Users\\ToThanhNhan\\Downloads\\Lab04_WinFormBasic_HuynhNhatQuang_3124411245\\Lab04_WinFormBasic_HuynhNhatQuang_3124411245\\BaiTap\\BaiThucHanhWinForm\\BaiThucHanhWinForm.csproj",
+      "projectPath": "C:\\Users\\ToThanhNhan\\OneDrive\\Documents\\CSharp\\Lab04\\BaiTap\\BaiThucHanhWinForm\\BaiThucHanhWinForm.csproj",
       "packagesPath": "C:\\Users\\ToThanhNhan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ToThanhNhan\\Downloads\\Lab04_WinFormBasic_HuynhNhatQuang_3124411245\\Lab04_WinFormBasic_HuynhNhatQuang_3124411245\\BaiTap\\BaiThucHanhWinForm\\obj\\",
+      "outputPath": "C:\\Users\\ToThanhNhan\\OneDrive\\Documents\\CSharp\\Lab04\\BaiTap\\BaiThucHanhWinForm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ToThanhNhan\\AppData\\Roaming\\NuGet\\NuGet.Config"
